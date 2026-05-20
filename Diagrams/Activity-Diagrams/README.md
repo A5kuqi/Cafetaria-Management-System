@@ -11,3 +11,6 @@ ApproveSupplies.png
 CategoryAdd.png
 EmployeeEndShift.png
 SaleActivityDiagram.png
+SaleProcessActivityDiagram.png
+SupplierAddDelivery.png
+TransferTab.png
